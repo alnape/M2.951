@@ -10,6 +10,9 @@ teams_page = "http://www.espn.com/nba/players"
 
 scraper = NBA()
 
+# Retorna un dataframe.
+# Columna1: links a les pagines dels equips
+# Columna2: nom de l'equip
 def getTeamLinks(url_home, url_teams):
     html_page = requests.get(url_teams)
     #Parsing a page with BeautifulSoup
@@ -27,11 +30,8 @@ def getTeamLinks(url_home, url_teams):
         "url_team": links, 
         "name_team": names,
         })
-    #print(data)    
-    #print(data['url_team'])    
-    #return links
     return data
-
+'''
 def getPlayersTeam(url_team):
     html_page = requests.get(url_team)
     soup = BeautifulSoup(html_page.content, 'html.parser')
@@ -42,9 +42,9 @@ def getPlayersTeam(url_team):
         links.append(link.get_text().strip())
     
     return links
-
-def scrap_table(url_team, name_team):
-    print(url_team)
+'''
+def getPlayersTeam(url_team, name_team):
+    #print(url_team)
     html_page = requests.get(url_team)
     soup = BeautifulSoup(html_page.content, 'html.parser')
     #soup = BeautifulSoup(open("C:\\table.html"), "html.parser")
@@ -92,6 +92,7 @@ def scrap_table(url_team, name_team):
         lst_cols.append(attr_col)
         #2017-2018 SALARY
         attr_sal = lst_players[i].find_all('td')[7].get_text().strip()
+        attr_sal.replace('$','')
         lst_sals.append(attr_sal)
         i = i + 1
 
@@ -106,36 +107,17 @@ def scrap_table(url_team, name_team):
         "COLLEGE":lst_cols,
         "SALARY":lst_sals
     })
-    #print(data)
     return data
-    #print(data)
 
 team_data = getTeamLinks(home_page, teams_page)
+#team_data = []
+#team_data = ['http://www.espn.com/nba/teams/roster?team=UTAH']
 all_data = pd.DataFrame(columns=["TEAM", "NO", "NAME", "POS", "AGE", "HEIGHT", "WEIGHT", "COLLEGE", "SALARY"])
-#all_data.loc[0] = ["First",0,".",".",0,".",0,".","."]
-all_data1 = pd.DataFrame(columns=["TEAM", "NO", "NAME", "POS", "AGE", "HEIGHT", "WEIGHT", "COLLEGE", "SALARY"])
-all_data1.loc[0] = ["Second",0,".",".",0,".",0,".","."]
-#frames = [all_data, all_data1]
-print(pd.concat([all_data, all_data1]))
-#print(all_data1)
 
 for i, row in enumerate(team_data.itertuples(), 1):
     print("Scraping data: "+ row.url_team)
-    current_data = scrap_table(row.url_team, row.name_team)
+    current_data = getPlayersTeam(row.url_team, row.name_team)
     all_data = pd.concat([all_data, current_data])
-    '''
-    if i==1:
-        print("Scraping data: "+ row.name_team)
-        current_data = scrap_table(row.url_team, row.name_team)
-    elif i==2:
-        current_data = scrap_table(row.url_team, row.name_team)
-        #all_data.append(current_data)
-        all_data = pd.concat([all_data, current_data])
-    '''
-#print(all_data)
-    #all_data.append(team_data)
-
-#players_team = getPlayersTeam(team_links[0])
 
 output_file = "dataset.csv"
 scraper.data2csv(output_file, all_data)
@@ -148,8 +130,3 @@ scraper.data2csv(output_file, all_data)
 #rows=tabla.findAll("tr")
 #print(lista)
 
-#for i in range(len(team_links)):
-#    print("scraping crash data: "+ team_links[i])
-
-#f = open('players.html', 'w')
-#f.write(tabla.prettify())
