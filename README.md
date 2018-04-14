@@ -2,16 +2,17 @@
 Pràctica 1: Web scraping
 
 Descripció
-Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos de la web PlaneCrashInfo y generar un dataset.
+Pràctica realitzada per l'assignatura "Tipologia i Cicle de Vida de les Dades" del Màster en Ciència de Dades (UOC). 
+En aquesta pràctica s'inclouen tècniques de web scraping mitjançant el llenguatge de programació Python.
+El portal sobre el que s'ha realitzat el web scraing ha estat el de ESPN (Entertainment and Sports Programming Network), que s'allotja a  http://www.espn.com. En concret s'han descarregat les dades dels jugadors de la NBA, la principal lliga de bàsket americana. 
 
-Miembros del equipo
-La actividad ha sido realizada de manera individual por Teguayco Gutiérrez González.
+Components de l'equip
+Aquesta pràctica ha estat realitzada de forma individual per Albert Navarro Pérez.
 
 Ficheros del código fuente
-src/main.py: punto de entrada al programa. Inicia el proceso de scraping.
-src/scraper.py: contiene la implementación de la clase AccidentsScraper cuyos métodos generan el conjunto de datos a partir de la base de datos online PlaneCrashInfo.
-src/reason_classifier.py: contiene la implementación de la clase que se encarga de asignar una causa a un resumen de accidente dado. Para ello, utiliza la librería TextBlob.
+src/main.py: fitxer principal del programa. Inicia el procés d'scraping.
+src/scraperNBA.py: conté la implementació de la clase NBAScraper, els mètodes de la qual generen el conjunt de dades a partir de la base de dades del portal ESPN.
 
-Recursos
+Recursos utilitzats
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
