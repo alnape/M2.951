@@ -15,5 +15,5 @@ Aquesta pràctica ha estat realitzada de forma individual per Albert Navarro Pé
 * **NBAscraper.py**: conté la implementació de la clase NBA, els mètodes de la qual generen el conjunt de dades (fitxer csv) a partir de la informació continguda al portal d'esports ESPN.
 
 ## Recursos utilitzats
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+1. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+2. Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
