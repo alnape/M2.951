@@ -1,0 +1,498 @@
+TEAM;NO;NAME;POS;AGE;HEIGHT;WEIGHT;COLLEGE;SALARY
+Boston Celtics;46;Aron Baynes;C;31;6-10;260;Washington State;4,328,000
+Boston Celtics;7;Jaylen Brown;SG;21;6-7;225;California;4,956,480
+Boston Celtics;60;Jonathan Gibson;PG;30;6-2;185;New Mexico State;44,495
+Boston Celtics;20;Gordon Hayward;SF;28;6-8;226;Butler;29,727,900
+Boston Celtics;42;Al Horford;PF;31;6-10;245;Florida;27,734,406
+Boston Celtics;11;Kyrie Irving;PG;26;6-3;193;Duke;18,868,626
+Boston Celtics;8;Shane Larkin;PG;25;5-11;175;Miami (FL);1,471,382
+Boston Celtics;55;Greg Monroe;C;27;6-11;265;Georgetown;5,000,000
+Boston Celtics;13;Marcus Morris;PF;28;6-9;235;Kansas;5,000,000
+Boston Celtics;28;Abdel Nader;SF;24;6-6;230;Iowa State;1,167,333
+Boston Celtics;37;Semi Ojeleye;PF;23;6-7;235;SMU;1,291,892
+Boston Celtics;12;Terry Rozier;PG;24;6-2;190;Louisville;1,988,520
+Boston Celtics;36;Marcus Smart;PG;24;6-4;220;Oklahoma State;4,538,020
+Boston Celtics;0;Jayson Tatum;SF;20;6-8;205;Duke;5,645,400
+Boston Celtics;27;Daniel Theis;PF;26;6-9;243;;815,615
+Boston Celtics;30;Guerschon Yabusele;PF;22;6-8;260;;2,247,480
+Brooklyn Nets;13;Quincy Acy;SF;27;6-7;240;Baylor;1,709,538
+Brooklyn Nets;31;Jarrett Allen;C;19;6-11;234;Texas;1,713,720
+Brooklyn Nets;9;DeMarre Carroll;SF;31;6-8;215;Missouri;14,800,000
+Brooklyn Nets;33;Allen Crabbe;SG;26;6-6;215;California;19,332,500
+Brooklyn Nets;44;Dante Cunningham;SF;30;6-8;230;Villanova;2,300,000
+Brooklyn Nets;8;Spencer Dinwiddie;PG;25;6-6;200;Colorado;1,524,305
+Brooklyn Nets;14;Milton Doyle;SG;24;6-4;180;Loyola (IL);
+Brooklyn Nets;12;Joe Harris;SF;26;6-6;219;Virginia;1,524,305
+Brooklyn Nets;24;Rondae Hollis-Jefferson;SF;23;6-7;214;Arizona;1,471,382
+Brooklyn Nets;22;Caris LeVert;SG;23;6-7;203;Michigan;1,632,480
+Brooklyn Nets;7;Jeremy Lin;PG;29;6-3;200;Harvard;12,000,000
+Brooklyn Nets;20;Timofey Mozgov;C;31;7-1;275;;15,280,000
+Brooklyn Nets;4;Jahlil Okafor;C;22;6-11;260;Duke;4,995,120
+Brooklyn Nets;1;D'Angelo Russell;PG;22;6-5;195;Ohio State;5,562,360
+Brooklyn Nets;2;Nik Stauskas;SG;24;6-6;205;Michigan;3,807,147
+Brooklyn Nets;0;James Webb III;SF;24;6-9;202;Boise State;
+Brooklyn Nets;15;Isaiah Whitehead;SG;23;6-4;213;Seton Hall;1,312,611
+New York Knicks;31;Ron Baker;SG;25;6-4;220;Wichita State;4,328,000
+New York Knicks;8;Michael Beasley;SF;29;6-9;235;Kansas State;1,471,382
+New York Knicks;23;Trey Burke;PG;25;6-1;191;Michigan;784,160
+New York Knicks;21;Damyean Dotson;SG;23;6-5;210;Houston;1,100,000
+New York Knicks;3;Tim Hardaway Jr.;SF;26;6-6;205;Michigan;16,500,000
+New York Knicks;4;Isaiah Hicks;PF;23;6-9;242;North Carolina;
+New York Knicks;55;Jarrett Jack;PG;34;6-3;200;Georgia Tech;1,471,382
+New York Knicks;00;Enes Kanter;C;25;6-11;245;Kentucky;17,884,176
+New York Knicks;2;Luke Kornet;PF;22;7-1;250;Vanderbilt;
+New York Knicks;5;Courtney Lee;SG;32;6-5;200;Western Kentucky;11,747,890
+New York Knicks;1;Emmanuel Mudiay;PG;22;6-5;200;;3,381,480
+New York Knicks;13;Joakim Noah;C;33;6-11;230;Florida;17,765,000
+New York Knicks;11;Frank Ntilikina;PG;19;6-5;190;;3,501,120
+New York Knicks;9;Kyle O'Quinn;C;28;6-10;250;Norfolk State;4,087,500
+New York Knicks;6;Kristaps Porzingis;PF;22;7-3;240;;4,503,600
+New York Knicks;42;Lance Thomas;SF;29;6-8;235;Duke;6,655,325
+New York Knicks;0;Troy Williams;SF;23;6-7;218;Indiana;222,476
+Philadelphia 76ers;1;Justin Anderson;SG;24;6-6;230;Virginia;1,579,440
+Philadelphia 76ers;0;Jerryd Bayless;PG;29;6-3;200;Arizona;9,000,000
+Philadelphia 76ers;18;Marco Belinelli;SG;32;6-5;210;;490,461
+Philadelphia 76ers;33;Robert Covington;SF;27;6-9;225;Tennessee State;16,698,103
+Philadelphia 76ers;21;Joel Embiid;C;24;7-0;250;Kansas;6,100,266
+Philadelphia 76ers;20;Markelle Fultz;PG;19;6-4;200;Washington;7,026,240
+Philadelphia 76ers;22;Richaun Holmes;PF;24;6-10;235;Bowling Green;1,471,382
+Philadelphia 76ers;23;Ersan Ilyasova;PF;30;6-10;235;;6,000,000
+Philadelphia 76ers;11;Demetrius Jackson;PG;23;6-1;201;Notre Dame;
+Philadelphia 76ers;5;Amir Johnson;C;30;6-9;240;;11,000,000
+Philadelphia 76ers;30;Furkan Korkmaz;SG;20;6-7;190;;1,465,920
+Philadelphia 76ers;7;Timothe Luwawu-Cabarrot;SG;22;6-6;200;;1,386,600
+Philadelphia 76ers;12;T.J. McConnell;PG;26;6-2;190;Arizona;1,471,382
+Philadelphia 76ers;17;JJ Redick;SG;33;6-4;200;Duke;23,000,000
+Philadelphia 76ers;9;Dario Saric;PF;24;6-10;223;;2,422,560
+Philadelphia 76ers;25;Ben Simmons;PG;21;6-10;230;LSU;6,168,840
+Toronto Raptors;3;OG Anunoby;SF;20;6-8;235;Indiana;1,645,200
+Toronto Raptors;4;Lorenzo Brown;PG;27;6-5;189;North Carolina State;16,626
+Toronto Raptors;10;DeMar DeRozan;SG;28;6-7;220;USC;27,739,975
+Toronto Raptors;9;Serge Ibaka;PF;28;6-10;235;;20,061,729
+Toronto Raptors;7;Kyle Lowry;PG;32;6-0;205;Villanova;28,703,704
+Toronto Raptors;34;Alfonzo McKinnie;SF;25;6-8;215;Green Bay;815,615
+Toronto Raptors;0;CJ Miles;SF;31;6-6;225;;7,936,509
+Toronto Raptors;92;Lucas Nogueira;C;25;7-0;220;;2,947,305
+Toronto Raptors;42;Jakob Poeltl;C;22;7-0;230;Utah;2,825,640
+Toronto Raptors;24;Norman Powell;SF;24;6-4;215;UCLA;1,471,382
+Toronto Raptors;22;Malachi Richardson;SG;22;6-6;205;Syracuse;1,504,560
+Toronto Raptors;43;Pascal Siakam;PF;24;6-9;230;New Mexico State;1,312,611
+Toronto Raptors;17;Jonas Valanciunas;C;25;7-0;255;;15,460,675
+Toronto Raptors;23;Fred VanVleet;PG;24;6-0;195;Wichita State;1,312,611
+Toronto Raptors;55;Delon Wright;PG;25;6-5;190;Utah;1,645,200
+Golden State Warriors;2;Jordan Bell;C;23;6-9;224;Oregon;815,615
+Golden State Warriors;4;Quinn Cook;PG;25;6-2;179;Duke;14,832
+Golden State Warriors;30;Stephen Curry;PG;30;6-3;190;Davidson;34,382,550
+Golden State Warriors;35;Kevin Durant;SF;29;6-9;240;Texas;25,000,000
+Golden State Warriors;23;Draymond Green;PF;28;6-7;230;Michigan State;16,400,000
+Golden State Warriors;9;Andre Iguodala;SF;34;6-6;215;Arizona;14,814,815
+Golden State Warriors;15;Damian Jones;C;22;7-0;245;Vanderbilt;1,312,611
+Golden State Warriors;34;Shaun Livingston;PG;32;6-7;192;;7,692,308
+Golden State Warriors;5;Kevon Looney;SF;22;6-9;220;UCLA;1,471,382
+Golden State Warriors;0;Patrick McCaw;SG;22;6-7;185;UNLV;1,312,611
+Golden State Warriors;1;JaVale McGee;C;30;7-0;270;Nevada;1,471,382
+Golden State Warriors;27;Zaza Pachulia;C;34;6-11;270;;3,477,600
+Golden State Warriors;11;Klay Thompson;SG;28;6-7;215;Washington State;17,826,150
+Golden State Warriors;3;David West;PF;37;6-9;250;Xavier;1,471,382
+Golden State Warriors;6;Nick Young;SG;32;6-7;210;USC;5,192,000
+LA Clippers;21;Patrick Beverley;PG;29;6-1;185;Arkansas;5,513,514
+LA Clippers;11;Avery Bradley;SG;27;6-2;180;Texas;8,808,989
+LA Clippers;7;Sam Dekker;SF;23;6-9;230;Wisconsin;1,794,600
+LA Clippers;1;Jawun Evans;PG;21;6-0;190;Oklahoma State;815,615
+LA Clippers;8;Danilo Gallinari;SF;29;6-10;225;;20,559,599
+LA Clippers;5;Montrezl Harrell;PF;24;6-8;240;Louisville;1,471,382
+LA Clippers;34;Tobias Harris;SF;25;6-9;235;Tennessee;16,000,000
+LA Clippers;33;Wesley Johnson;SF;30;6-7;215;Syracuse;5,882,260
+LA Clippers;6;DeAndre Jordan;C;29;6-11;265;"Texas A&M;";22,642,350
+LA Clippers;51;Boban Marjanovic;C;29;7-3;290;;7,000,000
+LA Clippers;25;Austin Rivers;PG;25;6-4;200;Duke;11,825,000
+LA Clippers;4;Milos Teodosic;PG;31;6-5;196;;6,000,000
+LA Clippers;0;Sindarius Thornwell;SG;23;6-5;215;South Carolina;815,615
+LA Clippers;12;Tyrone Wallace;SG;23;6-5;198;California;
+LA Clippers;9;C.J. Williams;SF;28;6-5;230;North Carolina State;375,000
+LA Clippers;23;Lou Williams;SG;31;6-1;175;;7,000,000
+Los Angeles Lakers;2;Lonzo Ball;PG;20;6-6;190;UCLA;6,286,560
+Los Angeles Lakers;31;Thomas Bryant;C;20;6-10;248;Indiana;815,615
+Los Angeles Lakers;1;Kentavious Caldwell-Pope;SG;25;6-5;205;Georgia;17,745,894
+Los Angeles Lakers;4;Alex Caruso;SG;24;6-5;186;"Texas A&M;";
+Los Angeles Lakers;9;Luol Deng;SF;32;6-9;220;Duke;17,190,000
+Los Angeles Lakers;10;Tyler Ennis;PG;23;6-3;194;Syracuse;1,524,305
+Los Angeles Lakers;12;Channing Frye;PF;34;6-11;255;Arizona;7,420,912
+Los Angeles Lakers;5;Josh Hart;SG;23;6-5;215;Villanova;1,394,520
+Los Angeles Lakers;20;Andre Ingram;G;32;6-3;190;American University;13,824
+Los Angeles Lakers;14;Brandon Ingram;SF;20;6-9;190;Duke;5,519,400
+Los Angeles Lakers;0;Kyle Kuzma;PF;22;6-9;220;Utah;1,423,560
+Los Angeles Lakers;11;Brook Lopez;C;30;7-0;268;Stanford;22,642,650
+Los Angeles Lakers;23;Gary Payton II;PG;25;6-3;190;Oregon State;
+Los Angeles Lakers;30;Julius Randle;PF;23;6-9;250;Kentucky;4,149,242
+Los Angeles Lakers;3;Isaiah Thomas;PG;29;5-9;185;Washington;6,261,395
+Los Angeles Lakers;21;Travis Wear;SF;27;6-10;225;UCLA;148,318
+Los Angeles Lakers;40;Ivica Zubac;C;21;7-1;240;;1,312,611
+Phoenix Suns;35;Dragan Bender;PF;20;7-1;225;;4,468,800
+Phoenix Suns;1;Devin Booker;SG;21;6-6;210;Kentucky;2,319,360
+Phoenix Suns;4;Tyson Chandler;C;35;7-1;240;;13,000,000
+Phoenix Suns;0;Marquese Chriss;PF;20;6-10;240;Washington;3,073,800
+Phoenix Suns;30;Troy Daniels;SG;26;6-4;205;Virginia Commonwealth;3,408,520
+Phoenix Suns;3;Jared Dudley;SF;32;6-7;240;Boston College;10,000,000
+Phoenix Suns;10;Shaquille Harrison;PG;24;6-4;190;Tulsa;175,000
+Phoenix Suns;23;Danuel House Jr.;SF;24;6-7;220;"Texas A&M;";
+Phoenix Suns;20;Josh Jackson;SG;21;6-8;200;Kansas;5,090,040
+Phoenix Suns;11;Brandon Knight;PG;26;6-3;195;Kentucky;13,618,750
+Phoenix Suns;21;Alex Len;C;24;7-1;250;Maryland;4,187,599
+Phoenix Suns;2;Elfrid Payton;PG;24;6-4;185;Louisiana-Lafayette;3,332,340
+Phoenix Suns;25;Alec Peters;PF;23;6-9;235;Valparaiso;
+Phoenix Suns;32;Davon Reed;SG;22;6-6;210;Miami (FL);815,615
+Phoenix Suns;8;Tyler Ulis;PG;22;5-10;160;Kentucky;1,312,611
+Phoenix Suns;12;TJ Warren;SF;24;6-8;215;North Carolina State;3,152,931
+Phoenix Suns;15;Alan Williams;PF;25;6-8;265;UC Santa Barbara;6,000,000
+Sacramento Kings;8;Bogdan Bogdanovic;SG;25;6-6;205;;9,412,280
+Sacramento Kings;22;Bruno Caboclo;SF;22;6-9;205;;2,451,225
+Sacramento Kings;15;Vince Carter;SG;41;6-6;220;North Carolina;8,000,000
+Sacramento Kings;00;Willie Cauley-Stein;C;24;7-0;240;Kentucky;3,704,160
+Sacramento Kings;45;Jack Cooley;PF;27;6-10;274;Notre Dame;
+Sacramento Kings;5;De'Aaron Fox;PG;20;6-3;175;Kentucky;4,609,200
+Sacramento Kings;20;Harry Giles;PF;19;6-10;240;Duke;1,859,400
+Sacramento Kings;40;Nigel Hayes;SF;23;6-7;254;Wisconsin;55,296
+Sacramento Kings;24;Buddy Hield;SG;24;6-4;214;Oklahoma;3,675,480
+Sacramento Kings;25;Justin Jackson;SF;23;6-8;210;North Carolina;2,365,560
+Sacramento Kings;41;Kosta Koufos;C;29;7-0;265;Ohio State;8,393,000
+Sacramento Kings;7;Skal Labissiere;PF;22;6-11;225;Kentucky;1,312,611
+Sacramento Kings;10;Frank Mason III;PG;24;5-11;190;Kansas;1,184,385
+Sacramento Kings;50;Zach Randolph;PF;36;6-9;250;Michigan State;12,307,692
+Sacramento Kings;29;JaKarr Sampson;SF;25;6-9;207;St. John's;
+Sacramento Kings;9;Iman Shumpert;SG;27;6-5;220;Georgia Tech;10,337,079
+Sacramento Kings;17;Garrett Temple;SF;31;6-6;195;LSU;8,000,000
+Chicago Bulls;15;Ryan Arcidiacono;PG;24;6-3;195;Villanova;
+Chicago Bulls;3;Omer Asik;C;31;7-0;255;;10,595,505
+Chicago Bulls;9;Antonio Blakeney;SG;21;6-4;197;LSU;
+Chicago Bulls;32;Kris Dunn;PG;24;6-4;210;Providence;4,046,760
+Chicago Bulls;31;Jarell Eddie;SG;26;6-7;218;Virginia Tech;57,672
+Chicago Bulls;6;Cristiano Felicio;C;25;6-9;280;;7,833,500
+Chicago Bulls;2;Jerian Grant;PG;25;6-4;198;Notre Dame;1,713,840
+Chicago Bulls;7;Justin Holiday;SG;29;6-6;185;Washington;4,615,385
+Chicago Bulls;0;Sean Kilpatrick;SG;28;6-4;212;Cincinnati;2,163,006
+Chicago Bulls;8;Zach LaVine;PG;23;6-5;185;UCLA;3,202,218
+Chicago Bulls;42;Robin Lopez;C;30;7-0;277;Stanford;13,788,500
+Chicago Bulls;24;Lauri Markkanen;PF;20;7-0;230;Arizona;3,821,640
+Chicago Bulls;11;David Nwaba;SF;25;6-4;209;Cal Poly;1,312,611
+Chicago Bulls;22;Cameron Payne;PG;23;6-3;185;Murray State;2,203,440
+Chicago Bulls;5;Bobby Portis;PF;23;6-11;248;Arkansas;1,516,320
+Chicago Bulls;45;Denzel Valentine;SF;24;6-6;214;Michigan State;2,186,400
+Chicago Bulls;30;Noah Vonleh;PF;22;6-9;245;Indiana;3,505,233
+Chicago Bulls;16;Paul Zipser;SF;24;6-8;226;;1,312,611
+Cleveland Cavaliers;81;Jose Calderon;PG;36;6-3;200;;1,471,382
+Cleveland Cavaliers;8;Jordan Clarkson;PG;25;6-5;194;Missouri;11,562,500
+Cleveland Cavaliers;32;Jeff Green;SF;31;6-9;235;Georgetown;1,471,382
+Cleveland Cavaliers;3;George Hill;PG;31;6-3;188;IUPUI;20,000,000
+Cleveland Cavaliers;1;Rodney Hood;SG;25;6-8;206;Duke;2,386,864
+Cleveland Cavaliers;23;LeBron James;SF;33;6-8;250;;33,285,709
+Cleveland Cavaliers;26;Kyle Korver;SG;37;6-7;212;Creighton;7,000,000
+Cleveland Cavaliers;0;Kevin Love;C;29;6-10;251;UCLA;22,642,350
+Cleveland Cavaliers;22;Larry Nance Jr.;PF;25;6-9;230;Wyoming;1,471,382
+Cleveland Cavaliers;16;Cedi Osman;SF;23;6-8;215;;2,642,857
+Cleveland Cavaliers;21;Kendrick Perkins;C;33;6-10;270;;
+Cleveland Cavaliers;5;JR Smith;SG;32;6-6;225;;13,760,000
+Cleveland Cavaliers;13;Tristan Thompson;C;27;6-9;238;Texas;16,400,000
+Cleveland Cavaliers;9;Okaro White;PF;25;6-8;215;Florida State;37,049
+Cleveland Cavaliers;41;Ante Zizic;PF;21;6-11;250;;1,645,200
+Detroit Pistons;25;Reggie Bullock;SG;27;6-7;205;North Carolina;2,500,000
+Detroit Pistons;20;Dwight Buycks;PG;29;6-3;190;Marquette;748,160
+Detroit Pistons;0;Andre Drummond;C;24;6-11;279;Connecticut;23,775,506
+Detroit Pistons;8;Henry Ellenson;PF;21;6-11;245;Marquette;1,780,800
+Detroit Pistons;33;James Ennis III;SF;27;6-7;210;Long Beach State;3,028,410
+Detroit Pistons;22;Kay Felder;PG;23;5-9;176;Oakland;
+Detroit Pistons;9;Langston Galloway;SG;26;6-2;200;Saint Joseph's;6,666,667
+Detroit Pistons;23;Blake Griffin;PF;29;6-10;251;Oklahoma;29,727,900
+Detroit Pistons;38;Reggie Hearn;SG;26;6-5;210;Northwestern;
+Detroit Pistons;1;Reggie Jackson;PG;28;6-3;208;Boston College;16,000,000
+Detroit Pistons;7;Stanley Johnson;SF;21;6-7;245;Arizona;3,097,800
+Detroit Pistons;5;Luke Kennard;SG;21;6-5;200;Duke;2,759,280
+Detroit Pistons;30;Jon Leuer;PF;28;6-10;228;Wisconsin;10,497,319
+Detroit Pistons;24;Eric Moreland;PF;26;6-10;238;Oregon State;1,739,333
+Detroit Pistons;41;Jameer Nelson;PG;36;6-0;190;Saint Joseph's;1,429,818
+Detroit Pistons;14;Ish Smith;PG;29;6-0;175;Wake Forest;6,000,000
+Detroit Pistons;43;Anthony Tolliver;PF;32;6-8;240;Creighton;3,290,000
+Indiana Pacers;13;Ike Anigbogu;C;19;6-10;262;UCLA;950,000
+Indiana Pacers;44;Bojan Bogdanovic;SF;28;6-8;230;;10,500,000
+Indiana Pacers;20;Trevor Booker;PF;30;6-8;228;Clemson;9,125,000
+Indiana Pacers;2;Darren Collison;PG;30;6-2;185;UCLA;10,000,000
+Indiana Pacers;25;Al Jefferson;C;33;6-10;280;;9,769,821
+Indiana Pacers;6;Cory Joseph;PG;26;6-3;190;Texas;7,630,000
+Indiana Pacers;22;T.J. Leaf;PF;20;6-10;230;UCLA;2,028,360
+Indiana Pacers;26;Ben Moore;PF;22;6-8;220;SMU;
+Indiana Pacers;4;Victor Oladipo;SG;25;6-4;210;Indiana;21,000,000
+Indiana Pacers;0;Alex Poythress;SF;24;6-9;235;Kentucky;778,668
+Indiana Pacers;40;Glenn Robinson III;SG;24;6-7;215;Michigan;1,524,305
+Indiana Pacers;11;Domantas Sabonis;C;21;6-10;252;Gonzaga;2,550,000
+Indiana Pacers;1;Lance Stephenson;SG;27;6-6;230;Cincinnati;4,180,000
+Indiana Pacers;5;Edmond Sumner;PG;22;6-5;188;Xavier;
+Indiana Pacers;33;Myles Turner;C;22;6-11;255;Texas;2,569,920
+Indiana Pacers;3;Joe Young;PG;25;6-2;185;Oregon;1,471,382
+Indiana Pacers;21;Thaddeus Young;PF;29;6-8;230;Georgia Tech;14,996,348
+Milwaukee Bucks;34;Giannis Antetokounmpo;PF;23;6-11;222;;22,471,910
+Milwaukee Bucks;6;Eric Bledsoe;PG;28;6-1;205;Kentucky;14,500,000
+Milwaukee Bucks;13;Malcolm Brogdon;PG;25;6-5;215;Virginia;1,312,611
+Milwaukee Bucks;23;Sterling Brown;SG;23;6-6;230;SMU;815,615
+Milwaukee Bucks;8;Matthew Dellavedova;PG;27;6-4;198;Saint Mary's;9,607,500
+Milwaukee Bucks;31;John Henson;C;27;6-11;229;North Carolina;11,422,536
+Milwaukee Bucks;11;Brandon Jennings;PG;28;6-1;170;;83,129
+Milwaukee Bucks;7;Thon Maker;C;21;7-1;223;;2,684,160
+Milwaukee Bucks;22;Khris Middleton;SF;26;6-8;234;"Texas A&M;";14,100,000
+Milwaukee Bucks;15;Shabazz Muhammad;SG;25;6-6;221;UCLA;1,577,230
+Milwaukee Bucks;0;Xavier Munford;PG;25;6-4;173;Rhode Island;
+Milwaukee Bucks;12;Jabari Parker;PF;23;6-8;250;Duke;6,782,392
+Milwaukee Bucks;40;Marshall Plumlee;C;25;7-0;250;Duke;
+Milwaukee Bucks;21;Tony Snell;SG;26;6-7;221;New Mexico;9,887,640
+Milwaukee Bucks;3;Jason Terry;SG;40;6-2;185;Arizona;1,471,382
+Milwaukee Bucks;5;D.J. Wilson;PF;22;6-10;236;Michigan;2,135,040
+Milwaukee Bucks;44;Tyler Zeller;C;28;7-0;250;North Carolina;1,709,538
+Dallas Mavericks;5;J.J. Barea;PG;33;6-0;185;Northeastern;3,903,900
+Dallas Mavericks;40;Harrison Barnes;SF;25;6-8;225;North Carolina;23,112,004
+Dallas Mavericks;8;Kyle Collinsworth;PG;26;6-6;210;BYU;
+Dallas Mavericks;30;Seth Curry;SG;27;6-2;185;Duke;3,028,410
+Dallas Mavericks;11;Yogi Ferrell;PG;24;6-0;180;Indiana;1,312,611
+Dallas Mavericks;10;Dorian Finney-Smith;SF;24;6-8;220;Florida;1,312,611
+Dallas Mavericks;9;Aaron Harrison;SG;23;6-6;210;Kentucky;91,442
+Dallas Mavericks;32;Scotty Hopson;SG;28;6-7;230;Tennessee;
+Dallas Mavericks;21;Jalen Jones;SF;24;6-7;220;"Texas A&M;";
+Dallas Mavericks;42;Maximilian Kleber;PF;26;6-11;220;;815,615
+Dallas Mavericks;23;Wesley Matthews;SG;31;6-5;220;Marquette;17,884,176
+Dallas Mavericks;20;Doug McDermott;SF;26;6-8;219;Creighton;3,294,994
+Dallas Mavericks;50;Salah Mejri;C;31;7-2;235;;1,471,382
+Dallas Mavericks;6;Johnathan Motley;PF;22;6-10;230;Baylor;
+Dallas Mavericks;3;Nerlens Noel;C;24;6-11;220;Kentucky;4,187,599
+Dallas Mavericks;41;Dirk Nowitzki;C;39;7-0;245;;5,000,000
+Dallas Mavericks;7;Dwight Powell;C;26;6-11;240;Stanford;9,003,125
+Dallas Mavericks;1;Dennis Smith Jr.;PG;20;6-3;195;North Carolina State;3,218,280
+Houston Rockets;33;Ryan Anderson;PF;29;6-10;240;California;19,578,455
+Houston Rockets;1;Trevor Ariza;SF;32;6-8;215;UCLA;7,420,912
+Houston Rockets;28;Tarik Black;PF;26;6-9;250;Kansas;3,290,000
+Houston Rockets;26;Markel Brown;SG;26;6-3;190;Oklahoma State;
+Houston Rockets;15;Clint Capela;C;23;6-10;240;;2,334,528
+Houston Rockets;10;Eric Gordon;SG;29;6-4;215;Indiana;12,943,020
+Houston Rockets;14;Gerald Green;SG;32;6-7;205;;872,854
+Houston Rockets;13;James Harden;PG;28;6-5;220;Arizona State;28,299,399
+Houston Rockets;42;Nene Hilario;C;35;6-11;250;;3,477,600
+Houston Rockets;2;R.J. Hunter;SG;24;6-5;185;Georgia State;
+Houston Rockets;55;Aaron Jackson;G;31;6-3;183;Duquesne;4,608
+Houston Rockets;7;Joe Johnson;SG;36;6-7;240;Arkansas;473,835
+Houston Rockets;12;Luc Mbah a Moute;PF;31;6-8;230;UCLA;1,471,382
+Houston Rockets;21;Chinanu Onuaku;C;21;6-10;245;Louisville;1,312,611
+Houston Rockets;3;Chris Paul;PG;32;6-0;175;Wake Forest;24,599,495
+Houston Rockets;9;Zhou Qi;PF;22;7-1;210;;815,615
+Houston Rockets;4;PJ Tucker;SF;32;6-6;245;Texas;7,590,035
+Memphis Grizzlies;24;Dillon Brooks;SF;22;6-6;220;Oregon;815,615
+Memphis Grizzlies;8;MarShon Brooks;SG;29;6-5;200;Providence;60,283
+Memphis Grizzlies;6;Mario Chalmers;PG;31;6-2;190;Kansas;1,471,382
+Memphis Grizzlies;11;Mike Conley;PG;30;6-1;175;Ohio State;28,530,608
+Memphis Grizzlies;21;Deyonta Davis;C;21;6-11;237;Michigan State;1,312,611
+Memphis Grizzlies;12;Tyreke Evans;SG;28;6-6;220;Memphis;3,290,000
+Memphis Grizzlies;33;Marc Gasol;C;33;7-1;255;;22,642,350
+Memphis Grizzlies;0;JaMychal Green;PF;27;6-9;227;Alabama;8,533,333
+Memphis Grizzlies;5;Andrew Harrison;SG;23;6-6;213;Kentucky;1,312,611
+Memphis Grizzlies;4;Myke Henry;F;25;6-6;210;DePaul;
+Memphis Grizzlies;14;Omari Johnson;PF;27;6-9;220;Oregon State;
+Memphis Grizzlies;1;Jarell Martin;PF;23;6-10;239;LSU;1,471,382
+Memphis Grizzlies;23;Ben McLemore;SG;25;6-5;195;Kansas;5,200,000
+Memphis Grizzlies;25;Chandler Parsons;SF;29;6-10;230;Florida;23,112,004
+Memphis Grizzlies;10;Ivan Rabb;PF;21;6-10;220;California;950,000
+Memphis Grizzlies;7;Wayne Selden;SG;23;6-5;230;Kansas;1,312,611
+Memphis Grizzlies;2;Kobi Simmons;PG;20;6-4;170;Arizona;
+Memphis Grizzlies;3;Briante Weber;PG;25;6-2;165;Virginia Commonwealth;
+New Orleans Pelicans;42;Alexis Ajinca;C;29;7-2;248;;4,961,798
+New Orleans Pelicans;2;Ian Clark;SG;27;6-3;175;Belmont;1,471,382
+New Orleans Pelicans;4;Charles Cooke;SG;23;6-5;196;Dayton;
+New Orleans Pelicans;0;DeMarcus Cousins;C;27;6-11;270;Kentucky;18,063,850
+New Orleans Pelicans;27;Jordan Crawford;SG;29;6-5;195;Xavier;58,190
+New Orleans Pelicans;23;Anthony Davis;PF;25;6-10;253;Kentucky;23,775,506
+New Orleans Pelicans;13;Cheick Diallo;PF;21;6-9;220;Kansas;1,312,611
+New Orleans Pelicans;1;Larry Drew II;PG;28;6-2;180;UCLA;
+New Orleans Pelicans;44;Solomon Hill;SF;27;6-7;225;Arizona;12,236,535
+New Orleans Pelicans;11;Jrue Holiday;PG;27;6-4;205;UCLA;25,686,667
+New Orleans Pelicans;15;Frank Jackson;PG;19;6-3;205;Duke;815,615
+New Orleans Pelicans;34;DeAndre Liggins;SG;30;6-6;209;Kentucky;588,120
+New Orleans Pelicans;21;Darius Miller;SF;28;6-8;225;Kentucky;2,100,000
+New Orleans Pelicans;3;Nikola Mirotic;PF;27;6-10;238;;12,500,000
+New Orleans Pelicans;55;E'Twaun Moore;SF;29;6-4;191;Purdue;8,445,024
+New Orleans Pelicans;50;Emeka Okafor;C;35;6-10;255;Connecticut;592,030
+New Orleans Pelicans;9;Rajon Rondo;PG;32;6-1;186;Kentucky;3,300,000
+San Antonio Spurs;12;LaMarcus Aldridge;PF;32;6-11;260;Texas;21,461,010
+San Antonio Spurs;1;Kyle Anderson;SF;24;6-9;230;UCLA;2,151,704
+San Antonio Spurs;42;Davis Bertans;C;25;6-10;210;;1,312,611
+San Antonio Spurs;11;Bryn Forbes;SG;24;6-3;190;Michigan State;1,312,611
+San Antonio Spurs;16;Pau Gasol;C;37;7-0;250;;16,000,000
+San Antonio Spurs;22;Rudy Gay;SF;31;6-8;230;Connecticut;8,406,000
+San Antonio Spurs;20;Manu Ginobili;SG;40;6-6;205;;2,500,000
+San Antonio Spurs;14;Danny Green;SG;30;6-6;215;North Carolina;10,000,000
+San Antonio Spurs;77;Joffrey Lauvergne;C;26;6-11;260;;1,524,305
+San Antonio Spurs;2;Kawhi Leonard;SF;26;6-7;230;San Diego State;18,868,626
+San Antonio Spurs;8;Patty Mills;PG;29;6-0;185;Saint Mary's;10,714,286
+San Antonio Spurs;5;Dejounte Murray;PG;21;6-5;170;Washington;1,312,611
+San Antonio Spurs;9;Tony Parker;PG;35;6-2;185;;15,453,126
+San Antonio Spurs;3;Brandon Paul;SG;26;6-4;200;Illinois;815,615
+San Antonio Spurs;4;Derrick White;PG;23;6-4;190;Colorado;1,404,600
+Atlanta Hawks;24;Kent Bazemore;SG;28;6-5;201;Old Dominion;16,910,113
+Atlanta Hawks;95;DeAndre' Bembry;SF;23;6-6;210;Saint Joseph's;1,567,200
+Atlanta Hawks;34;Tyler Cavanaugh;PF;24;6-9;238;George Washington;679,919
+Atlanta Hawks;0;Antonius Cleveland;SG;24;6-6;195;Southeast Missouri State;133,632
+Atlanta Hawks;20;John Collins;PF;20;6-10;235;Wake Forest;1,936,920
+Atlanta Hawks;14;Dewayne Dedmon;C;28;7-0;245;USC;6,000,000
+Atlanta Hawks;5;Malcolm Delaney;PG;29;6-3;190;Virginia Tech;2,500,000
+Atlanta Hawks;2;Tyler Dorsey;SG;22;6-5;183;Oregon;815,615
+Atlanta Hawks;8;Damion Lee;SG;25;6-6;210;Louisville;46,080
+Atlanta Hawks;11;Josh Magette;PG;28;6-1;160;Alabama-Huntsville;
+Atlanta Hawks;3;Jaylen Morris;G;22;6-5;185;;101,376
+Atlanta Hawks;31;Mike Muscala;PF;26;6-11;240;Bucknell;5,000,000
+Atlanta Hawks;18;Miles Plumlee;C;29;6-11;249;Duke;12,500,000
+Atlanta Hawks;12;Taurean Prince;SF;24;6-8;220;Baylor;2,422,560
+Atlanta Hawks;17;Dennis Schroder;PG;24;6-1;172;;15,500,000
+Atlanta Hawks;22;Isaiah Taylor;PG;23;6-3;170;Texas;1,312,611
+Atlanta Hawks;4;Andrew White III;SF;24;6-7;210;Syracuse;
+Charlotte Hornets;7;Dwayne Bacon;SF;22;6-7;221;Florida State;815,615
+Charlotte Hornets;5;Nicolas Batum;SG;29;6-8;200;;22,434,783
+Charlotte Hornets;10;Michael Carter-Williams;PG;26;6-6;190;Syracuse;2,700,000
+Charlotte Hornets;21;Treveon Graham;SG;24;6-5;219;Virginia Commonwealth;1,312,611
+Charlotte Hornets;41;Willy Hernangomez;C;23;6-11;240;;1,435,750
+Charlotte Hornets;12;Dwight Howard;C;32;6-11;265;;23,500,000
+Charlotte Hornets;44;Frank Kaminsky;PF;25;7-0;242;Wisconsin;2,847,600
+Charlotte Hornets;14;Michael Kidd-Gilchrist;SF;24;6-7;232;Kentucky;13,000,000
+Charlotte Hornets;3;Jeremy Lamb;SG;25;6-5;185;Connecticut;7,000,000
+Charlotte Hornets;9;Mangok Mathiang;PF;25;6-10;230;Louisville;
+Charlotte Hornets;1;Malik Monk;SG;20;6-3;200;Kentucky;2,904,480
+Charlotte Hornets;4;Marcus Paige;PG;24;6-0;164;North Carolina;
+Charlotte Hornets;32;Julyan Stone;PG;29;6-6;200;UTEP;1,524,305
+Charlotte Hornets;15;Kemba Walker;PG;27;6-1;184;Connecticut;12,000,000
+Charlotte Hornets;2;Marvin Williams;PF;31;6-9;237;North Carolina;13,168,750
+Charlotte Hornets;40;Cody Zeller;C;25;7-0;240;Indiana;12,584,270
+Miami Heat;13;Bam Adebayo;C;20;6-10;255;Kentucky;2,490,360
+Miami Heat;22;Luke Babbitt;SF;28;6-9;225;Nevada;1,471,382
+Miami Heat;7;Goran Dragic;PG;31;6-3;190;;17,000,450
+Miami Heat;2;Wayne Ellington;SG;30;6-5;200;North Carolina;6,270,000
+Miami Heat;40;Udonis Haslem;PF;37;6-8;235;Florida;1,471,382
+Miami Heat;16;James Johnson;PF;31;6-8;240;Wake Forest;13,734,000
+Miami Heat;8;Tyler Johnson;SG;25;6-4;190;Fresno State;5,881,260
+Miami Heat;5;Derrick Jones Jr.;SG;21;6-7;200;UNLV;1,312,611
+Miami Heat;17;Rodney McGruder;SG;26;6-4;200;Kansas State;1,312,611
+Miami Heat;25;Jordan Mickey;C;23;6-8;235;LSU;1,471,382
+Miami Heat;9;Kelly Olynyk;PF;26;7-0;245;Gonzaga;10,607,169
+Miami Heat;0;Josh Richardson;SF;24;6-6;200;Tennessee;1,471,382
+Miami Heat;3;Dwyane Wade;SG;36;6-4;220;Marquette;1,471,382
+Miami Heat;11;Dion Waiters;SG;26;6-4;215;Syracuse;11,000,000
+Miami Heat;14;Derrick Walton Jr.;PG;23;6-1;185;Michigan;
+Miami Heat;21;Hassan Whiteside;C;28;7-0;265;Marshall;23,775,506
+Miami Heat;20;Justise Winslow;SF;22;6-7;225;Duke;2,705,040
+Orlando Magic;4;Arron Afflalo;SG;32;6-5;210;UCLA;1,471,382
+Orlando Magic;0;Jamel Artis;SG;25;6-7;213;Pittsburgh;
+Orlando Magic;14;D.J. Augustin;PG;30;6-0;183;Texas;7,250,000
+Orlando Magic;24;Khem Birch;C;25;6-9;220;UNLV;815,615
+Orlando Magic;11;Bismack Biyombo;C;25;6-9;255;;17,000,000
+Orlando Magic;10;Evan Fournier;SG;25;6-7;205;;17,000,000
+Orlando Magic;00;Aaron Gordon;PF;22;6-9;220;Arizona;5,504,420
+Orlando Magic;8;Mario Hezonja;SF;23;6-8;218;;3,909,840
+Orlando Magic;1;Jonathan Isaac;PF;20;6-10;210;Florida State;4,186,320
+Orlando Magic;25;Wesley Iwundu;SF;23;6-7;195;Kansas State;1,050,000
+Orlando Magic;7;Shelvin Mack;PG;27;6-3;203;Butler;6,000,000
+Orlando Magic;15;Rodney Purvis;SG;24;6-4;205;Connecticut;69,120
+Orlando Magic;31;Terrence Ross;SG;27;6-7;206;Washington;10,500,000
+Orlando Magic;17;Jonathon Simmons;SF;28;6-6;195;Houston;6,300,000
+Orlando Magic;5;Marreese Speights;PF;30;6-10;255;Florida;1,471,382
+Orlando Magic;9;Nikola Vucevic;C;27;7-0;260;USC;12,250,000
+Washington Wizards;3;Bradley Beal;SG;24;6-5;207;Florida;23,775,506
+Washington Wizards;8;Tim Frazier;PG;27;6-1;170;Penn State;2,000,000
+Washington Wizards;13;Marcin Gortat;C;34;6-11;240;;12,782,609
+Washington Wizards;4;Ty Lawson;PG;30;5-11;195;North Carolina;8,313
+Washington Wizards;28;Ian Mahinmi;C;31;6-11;262;;16,661,641
+Washington Wizards;1;Chris McCullough;PF;23;6-9;215;Syracuse;1,471,382
+Washington Wizards;20;Jodie Meeks;SG;30;6-4;210;Kentucky;3,290,000
+Washington Wizards;5;Markieff Morris;PF;28;6-10;245;Kansas;8,000,000
+Washington Wizards;12;Kelly Oubre Jr.;SF;22;6-7;205;Kansas;2,093,040
+Washington Wizards;22;Otto Porter Jr.;SF;24;6-8;198;Georgetown;24,773,250
+Washington Wizards;7;Devin Robinson;SF;23;6-8;200;Florida;
+Washington Wizards;31;Tomas Satoransky;SG;26;6-7;210;;3,000,000
+Washington Wizards;30;Mike Scott;PF;29;6-8;237;Virginia;1,471,382
+Washington Wizards;9;Ramon Sessions;PG;32;6-3;190;Nevada;224,448
+Washington Wizards;14;Jason Smith;PF;32;7-0;240;Colorado State;5,225,000
+Washington Wizards;2;John Wall;PG;27;6-4;210;Kentucky;18,063,850
+Denver Nuggets;00;Darrell Arthur;PF;30;6-9;235;Kansas;7,464,912
+Denver Nuggets;5;Will Barton;SF;27;6-6;190;Memphis;3,533,333
+Denver Nuggets;25;Malik Beasley;SG;21;6-5;196;Florida State;1,700,640
+Denver Nuggets;21;Wilson Chandler;SF;30;6-9;225;DePaul;12,016,854
+Denver Nuggets;3;Torrey Craig;SG;27;6-6;215;USC Upstate;
+Denver Nuggets;35;Kenneth Faried;PF;28;6-8;228;Morehead State;12,921,348
+Denver Nuggets;34;Devin Harris;PG;35;6-3;185;Wisconsin;4,402,546
+Denver Nuggets;14;Gary Harris;SG;23;6-4;210;Michigan State;2,550,055
+Denver Nuggets;41;Juan Hernangomez;PF;22;6-9;230;;2,076,840
+Denver Nuggets;22;Richard Jefferson;SF;37;6-7;233;Arizona;1,454,756
+Denver Nuggets;15;Nikola Jokic;C;23;6-10;250;;1,471,382
+Denver Nuggets;20;Tyler Lydon;PF;22;6-9;220;Syracuse;1,579,440
+Denver Nuggets;7;Trey Lyles;PF;22;6-10;234;Kentucky;2,441,400
+Denver Nuggets;4;Paul Millsap;PF;33;6-8;246;Louisiana Tech;31,269,231
+Denver Nuggets;11;Monte Morris;PG;22;6-3;175;Iowa State;
+Denver Nuggets;27;Jamal Murray;PG;21;6-4;207;Kentucky;3,355,320
+Denver Nuggets;24;Mason Plumlee;C;28;6-11;255;Duke;14,041,096
+Minnesota Timberwolves;45;Cole Aldrich;C;29;6-11;253;Kansas;7,300,000
+Minnesota Timberwolves;8;Nemanja Bjelica;PF;29;6-10;230;;3,949,999
+Minnesota Timberwolves;30;Aaron Brooks;PG;33;6-0;161;Oregon;1,471,382
+Minnesota Timberwolves;3;Anthony Brown;SF;25;6-7;224;Stanford;
+Minnesota Timberwolves;23;Jimmy Butler;SG;28;6-8;236;Marquette;19,301,070
+Minnesota Timberwolves;11;Jamal Crawford;SG;38;6-5;185;Michigan;4,328,000
+Minnesota Timberwolves;5;Gorgui Dieng;C;28;6-11;251;Louisville;14,112,360
+Minnesota Timberwolves;13;Marcus Georges-Hunt;SG;24;6-5;226;Georgia Tech;1,312,611
+Minnesota Timberwolves;67;Taj Gibson;PF;32;6-9;235;USC;14,000,000
+Minnesota Timberwolves;10;Amile Jefferson;PF;24;6-9;224;Duke;4,608
+Minnesota Timberwolves;1;Tyus Jones;PG;21;6-2;184;Duke;1,471,382
+Minnesota Timberwolves;24;Justin Patton;C;20;7-0;236;Creighton;2,247,480
+Minnesota Timberwolves;25;Derrick Rose;PG;29;6-3;190;Memphis;290,951
+Minnesota Timberwolves;0;Jeff Teague;PG;29;6-2;189;Wake Forest;19,000,000
+Minnesota Timberwolves;32;Karl-Anthony Towns;C;22;7-0;248;Kentucky;6,216,840
+Minnesota Timberwolves;22;Andrew Wiggins;SF;23;6-8;202;Kansas;7,574,323
+Oklahoma City Thunder;8;Alex Abrines;SG;24;6-6;190;;5,725,000
+Oklahoma City Thunder;12;Steven Adams;C;24;7-0;255;Pittsburgh;22,471,910
+Oklahoma City Thunder;7;Carmelo Anthony;PF;33;6-8;240;Syracuse;26,243,760
+Oklahoma City Thunder;3;Corey Brewer;SF;32;6-9;186;Florida;7,579,366
+Oklahoma City Thunder;4;Nick Collison;PF;37;6-10;255;Kansas;1,471,382
+Oklahoma City Thunder;35;PJ Dozier;PG;21;6-6;205;South Carolina;
+Oklahoma City Thunder;2;Raymond Felton;PG;33;6-1;205;North Carolina;1,471,382
+Oklahoma City Thunder;23;Terrance Ferguson;SG;19;6-7;184;;1,785,000
+Oklahoma City Thunder;13;Paul George;SF;27;6-9;220;Fresno State;19,508,958
+Oklahoma City Thunder;9;Jerami Grant;SF;24;6-9;220;Syracuse;1,524,305
+Oklahoma City Thunder;25;Daniel Hamilton;SG;22;6-7;195;Connecticut;
+Oklahoma City Thunder;34;Josh Huestis;SG;26;6-7;230;Stanford;1,471,382
+Oklahoma City Thunder;44;Dakari Johnson;C;22;7-0;255;Kentucky;815,615
+Oklahoma City Thunder;54;Patrick Patterson;PF;29;6-9;230;Kentucky;5,192,000
+Oklahoma City Thunder;21;Andre Roberson;SG;26;6-7;210;Colorado;9,259,260
+Oklahoma City Thunder;15;Kyle Singler;SF;29;6-8;228;Duke;4,666,500
+Oklahoma City Thunder;0;Russell Westbrook;PG;29;6-3;200;UCLA;28,530,608
+Portland Trail Blazers;8;Al-Farouq Aminu;PF;27;6-9;220;Wake Forest;7,319,035
+Portland Trail Blazers;2;Wade Baldwin IV;PG;22;6-4;202;Vanderbilt;229,892
+Portland Trail Blazers;33;Zach Collins;C;20;7-0;230;Gonzaga;3,057,240
+Portland Trail Blazers;5;Pat Connaughton;SG;25;6-5;210;Notre Dame;1,471,382
+Portland Trail Blazers;17;Ed Davis;PF;28;6-10;245;North Carolina;6,352,531
+Portland Trail Blazers;4;Maurice Harkless;SF;24;6-9;220;St. John's;10,162,922
+Portland Trail Blazers;10;Jake Layman;SF;24;6-9;210;Maryland;1,312,611
+Portland Trail Blazers;11;Meyers Leonard;C;26;7-1;255;Illinois;9,904,495
+Portland Trail Blazers;0;Damian Lillard;PG;27;6-3;195;Weber State;26,153,057
+Portland Trail Blazers;3;CJ McCollum;SG;26;6-3;190;Lehigh;23,962,573
+Portland Trail Blazers;6;Shabazz Napier;PG;26;6-1;175;Connecticut;2,361,360
+Portland Trail Blazers;27;Jusuf Nurkic;C;23;7-0;280;;2,947,305
+Portland Trail Blazers;19;Georgios Papagiannis;C;20;7-1;240;;185,397
+Portland Trail Blazers;50;Caleb Swanigan;PF;20;6-8;250;Purdue;1,465,920
+Portland Trail Blazers;1;Evan Turner;SF;29;6-7;220;Ohio State;17,131,148
+Portland Trail Blazers;23;CJ Wilcox;SG;27;6-5;195;Washington;
+Utah Jazz;13;Tony Bradley;C;20;6-10;248;North Carolina;1,414,920
+Utah Jazz;10;Alec Burks;SG;26;6-6;214;Colorado;10,845,506
+Utah Jazz;99;Jae Crowder;PF;27;6-6;235;Marquette;6,796,117
+Utah Jazz;11;Dante Exum;PG;22;6-6;190;;4,992,385
+Utah Jazz;15;Derrick Favors;PF;26;6-10;265;Georgia Tech;12,000,000
+Utah Jazz;27;Rudy Gobert;C;25;7-1;245;;21,924,719
+Utah Jazz;2;Joe Ingles;SF;30;6-8;226;;14,136,364
+Utah Jazz;8;Jonas Jerebko;PF;31;6-10;231;;4,000,000
+Utah Jazz;21;Erik McCree;SF;24;6-8;225;Louisiana Tech;815,615
+Utah Jazz;45;Donovan Mitchell;SG;21;6-3;215;Louisville;2,621,280
+Utah Jazz;25;Raul Neto;PG;25;6-1;179;;1,471,382
+Utah Jazz;31;Georges Niang;F;24;6-6;231;Iowa State;
+Utah Jazz;23;Royce O'Neale;SF;24;6-6;226;Baylor;815,615
+Utah Jazz;3;Ricky Rubio;PG;27;6-4;190;;14,275,000
+Utah Jazz;22;Thabo Sefolosha;SF;33;6-7;220;;5,500,000
+Utah Jazz;5;David Stockton;PG;26;5-11;165;Gonzaga;44,495
+Utah Jazz;33;Ekpe Udoh;C;30;6-10;245;Baylor;3,200,000
