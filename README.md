@@ -3,8 +3,8 @@
 
 ## Descripció
 Pràctica realitzada per l'assignatura "Tipologia i Cicle de Vida de les Dades" del Màster en Ciència de Dades (UOC). 
-En aquesta pràctica s'inclouen tècniques de web scraping mitjançant el llenguatge de programació Python.
-El portal sobre el quual s'ha realitzat el web scraping ha estat el de ESPN (Entertainment and Sports Programming Network), que s'allotja a  http://www.espn.com. 
+En aquesta pràctica s'inclouen tècniques de web scraping mitjançant el llenguatge de programació Python 3.
+El portal sobre el qual s'ha realitzat el web scraping ha estat el de ESPN (Entertainment and Sports Programming Network), que s'allotja a  http://www.espn.com. 
 En concret s'han descarregat dades referents als jugadors de la NBA, la principal lliga de bàsket americana. 
 
 ## Components de l'equip
