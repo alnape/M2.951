@@ -11,8 +11,8 @@ En concret s'han descarregat dades referents als jugadors de la NBA, la principa
 Aquesta pràctica ha estat realitzada de forma individual per Albert Navarro Pérez (alnape@uoc.edu).
 
 ## Fitxers de codi
-main.py: fitxer principal del programa. Conté els passos per realitzar el web scraping.
-NBAscraper.py: conté la implementació de la clase NBA, els mètodes de la qual generen el conjunt de dades (fitxer csv) a partir de la informació continguda al portal d'esports ESPN.
+* **main.py**: fitxer principal del programa. Conté els passos per realitzar el web scraping.
+* **NBAscraper.py**: conté la implementació de la clase NBA, els mètodes de la qual generen el conjunt de dades (fitxer csv) a partir de la informació continguda al portal d'esports ESPN.
 
 ## Recursos utilitzats
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
